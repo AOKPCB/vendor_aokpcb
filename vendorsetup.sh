@@ -2,7 +2,6 @@ add_lunch_combo aokpcb_toro-userdebug
 add_lunch_combo aokpcb_maguro-userdebug
 add_lunch_combo aokpcb_fascinatemtd-userdebug
 add_lunch_combo aokpcb_tf101-userdebug
-add_lunch_combo aokpcb_bravo-userdebug
 add_lunch_combo aokpcb_captivatemtd-userdebug
 add_lunch_combo aokpcb_crespo-userdebug
 add_lunch_combo aokpcb_crespo4g-userdebug
@@ -24,7 +23,6 @@ add_lunch_combo aokpcb_supersonic-userdebug
 add_lunch_combo aokpcb_tenderloin-userdebug
 add_lunch_combo aokpcb_tf201-userdebug
 add_lunch_combo aokpcb_toroplus-userdebug
-add_lunch_combo aokpcb_vibrantmtd-userdebug
 add_lunch_combo aokpcb_ville-userdebug
 add_lunch_combo aokpcb_vivow-userdebug
 add_lunch_combo aokpcb_wingray-userdebug
