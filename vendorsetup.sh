@@ -26,3 +26,4 @@ add_lunch_combo aokpcb_toroplus-userdebug
 add_lunch_combo aokpcb_ville-userdebug
 add_lunch_combo aokpcb_vivow-userdebug
 add_lunch_combo aokpcb_wingray-userdebug
+add_lunch_combo aokpcb_vibrantmtd-userdebug
