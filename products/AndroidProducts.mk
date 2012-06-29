@@ -6,8 +6,11 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aokpcb_espressowifi.mk \
     $(LOCAL_DIR)/aokpcb_fascinatemtd.mk \
     $(LOCAL_DIR)/aokpcb_galaxysmtd.mk \
+    $(LOCAL_DIR)/aokpcb_hercules.mk \
     $(LOCAL_DIR)/aokpcb_inc.mk \
     $(LOCAL_DIR)/aokpcb_maguro.mk \
+    $(LOCAL_DIR)/aokpcb_mesmerizemtd.mk \
+    $(LOCAL_DIR)/aokpcb_n7000.mk \
     $(LOCAL_DIR)/aokpcb_otter.mk \
     $(LOCAL_DIR)/aokpcb_p1c.mk \
     $(LOCAL_DIR)/aokpcb_p4.mk \
@@ -18,6 +21,8 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aokpcb_p999.mk \
     $(LOCAL_DIR)/aokpcb_picasso.mk \
     $(LOCAL_DIR)/aokpcb_pyramid.mk \
+    $(LOCAL_DIR)/aokpcb_showcasemtd.mk \
+    $(LOCAL_DIR)/aokpcb_skyrocket.mk \
     $(LOCAL_DIR)/aokpcb_stingray.mk \
     $(LOCAL_DIR)/aokpcb_supersonic.mk \
     $(LOCAL_DIR)/aokpcb_tenderloin.mk \
