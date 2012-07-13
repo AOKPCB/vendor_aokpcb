@@ -8,6 +8,7 @@ add_lunch_combo aokpcb_captivatemtd-userdebug
 add_lunch_combo aokpcb_crespo-userdebug
 add_lunch_combo aokpcb_espressowifi-userdebug
 add_lunch_combo aokpcb_galaxysmtd-userdebug
+add_lunch_combo aokpcb_galaxys4gmtd-userdebug
 add_lunch_combo aokpcb_hercules-userdebug
 add_lunch_combo aokpcb_inc-userdebug
 add_lunch_combo aokpcb_mesmerizemtd-userdebug

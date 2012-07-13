@@ -6,6 +6,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aokpcb_espressowifi.mk \
     $(LOCAL_DIR)/aokpcb_fascinatemtd.mk \
     $(LOCAL_DIR)/aokpcb_galaxysmtd.mk \
+    $(LOCAL_DIR)/aokpcb_galaxys4gmtd.mk \
     $(LOCAL_DIR)/aokpcb_hercules.mk \
     $(LOCAL_DIR)/aokpcb_inc.mk \
     $(LOCAL_DIR)/aokpcb_maguro.mk \
